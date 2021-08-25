@@ -12,6 +12,6 @@
 - Generative / Algorithmic art
 
 ## Hackathon / CTF results: 
-- Bioanlysis Cyber Hachathon (BACH): 12th / ~90 participants.  Sponsored by Pacific Northwest National Laboratory and BioBright.
+- Bioanlysis Cyber Hackathon (BACH): 12th / ~90 participants.  Sponsored by Pacific Northwest National Laboratory and BioBright.
 - CYBERFORCE CTF: 15th / 330 participants.  Sponsored by US Department of Energy and Argonne National Laboratory.
 - HACK UIOWA: 'Intelligent Systems in Geoscience' award for the [rain-predictor](https://github.com/jbkroner/rain-prediction) project.
