@@ -4,7 +4,7 @@
 - I'm a graduate student in the Computer Science department at the University of Wisconsin, Milwaukee
 - I have B.M.from the Berklee College of Music in Boston, MA.  At Berklee I studied sound design and audio programming. 
 - I previously worked in the entertainment industry as a systems technican installing and maintaining AV systems for branded experiences and entertainment venues. 
-- Currently I'm interning at Milwaukee Tool.  I maintain a Python-based framework for firmware validation testing in next-gen IoT and BLE products.
+- Currently I'm a DevOps engineer at Milwaukee Tool.
 
 ## Primary interests: 
 - Cloud technology 
@@ -15,3 +15,4 @@
 - Bioanalysis Cyber Hackathon (BACH): 12th / ~90 participants.  Sponsored by Pacific Northwest National Laboratory and BioBright.
 - CYBERFORCE CTF: 15th / 330 participants.  Sponsored by US Department of Energy and Argonne National Laboratory.
 - HACK UIOWA: 'Intelligent Systems in Geoscience' award for the [rain-predictor](https://github.com/jbkroner/rain-prediction) project.
+- AWS Deep Learning Hackathon. Sponsored by Hibana labs.  Built transfer learning model for detecting bird and REST api for model interaction.
