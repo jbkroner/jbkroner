@@ -15,4 +15,4 @@
 - Bioanalysis Cyber Hackathon (BACH): 12th / ~90 participants.  Sponsored by Pacific Northwest National Laboratory and BioBright.
 - CYBERFORCE CTF: 15th / 330 participants.  Sponsored by US Department of Energy and Argonne National Laboratory.
 - HACK UIOWA: 'Intelligent Systems in Geoscience' award for the [rain-predictor](https://github.com/jbkroner/rain-prediction) project.
-- AWS Deep Learning Hackathon. Sponsored by Hibana labs.  Built transfer learning model for detecting bird and REST api for model interaction.
+- AWS Deep Learning Hackathon. Sponsored by Hibana labs.  Use transfer learning to build a convolutional neural network for classifying bird species as well as a REST api for model interaction.
