@@ -7,8 +7,9 @@
 - Currently I'm a DevOps engineer at Milwaukee Tool.
 
 ## Primary interests: 
-- Cloud technology 
-- IoT for AV
+- Applied Machine Learning
+- Dev/ML Ops
+- IoT
 - Generative / Algorithmic art
 
 ## Hackathon / CTF results: 
