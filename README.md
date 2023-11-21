@@ -17,4 +17,5 @@
 - CYBERFORCE CTF: 15th / 330 participants.  Sponsored by US Department of Energy and Argonne National Laboratory.
 - HACK UIOWA: 'Intelligent Systems in Geoscience' award for the [rain-predictor](https://github.com/jbkroner/rain-prediction) project.
 - AWS Deep Learning Hackathon. Sponsored by Hibana labs.  Use transfer learning to build a convolutional neural network for classifying bird species as well as a REST api for model interaction.
-- 2022 CYBERFORCE Competition - Green Team voluneer.  Helped score competitors web apps and left notes about how to improve application security. 
+- 2022 CYBERFORCE Competition - Green Team voluneer.  Helped score competitors web apps and left notes about how to improve application security.
+- 2023 CYBERFORCE Competition - Green Team voluneer.  Helped score competitors web apps and left notes about how to improve application security. 
